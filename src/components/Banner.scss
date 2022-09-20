@@ -1,0 +1,112 @@
+.banner{
+    background-image: url("https://img.freepik.com/foto-gratis/coco-pajita-mar_268835-1964.jpg?w=1060&t=st=1663620487~exp=1663621087~hmac=a97e6ac269570fa89f1e4dc31608308018938c2746c69bb7b479cf68f472e3a1");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+  }
+button{
+    background-color: Transparent;
+    background-repeat:no-repeat;
+    border: none;
+    overflow: hidden;
+    outline:none;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 70px;
+}
+.banner h1 {
+  color:white;
+  position: absolute;
+  bottom: 150px;
+  width: 100%;
+  text-align: center;
+  font-size: 50px; 
+  font-weight: 900;
+}
+.banner  .shopping{
+  border: 3px solid white;
+  color:white;
+  padding-right: 50px;
+  padding-left: 50px;
+  margin-top: 520px;
+  margin-left: 600px;
+  
+}
+.banner button.couch {
+  position: absolute;
+  left: 400px;
+  color: white;
+  font-size:40px;
+  border-right: 1px solid white;
+  padding-right: 50px;
+  margin-top: 30px;
+  
+  
+  
+}
+.banner button.umbrella {
+  position: absolute;
+  left: 550px;
+  color: white;
+  font-size:40px;
+  border-right: 1px solid white;
+  padding-right: 50px;
+  margin-top: 30px;
+  
+}
+
+.banner button.shop {
+  position: absolute;
+  left: 700px;
+  color: white;
+  font-size:40px;
+  border-right: 1px solid white;
+  padding-right: 50px;
+  margin-top: 30px;
+  
+}
+.banner button.nap {
+  position: absolute;
+  left: 850px;
+  color: white;
+  font-size:40px;
+  border-right: 1px solid white;
+  padding-right: 50px;
+  margin-top: 30px;
+  
+}
+
+.banner p.title{
+  position: absolute;
+  margin-top: 22px;
+  left: 60px;
+  color: white;
+  font-size:60px;
+  color:white;
+  font-family: 'Nunito', sans-serif;
+  font-weight: bold;
+  @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@900&display=swap');
+
+}
+.banner p.account{
+  position: absolute;
+  right: 130px;
+  color: white;
+  font-size:12px;
+  margin-top: 30px;
+  padding-right: 5px;
+  color:white;
+  border-right: 1px solid white;
+  opacity: 1;
+}
+.banner p.buy{
+  position: absolute;
+  right: 55px;
+  color: white;
+  font-size:12px;
+  margin-top: 30px;
+  color:white;
+  opacity: 1;
+}
+
